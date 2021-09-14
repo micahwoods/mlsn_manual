@@ -1,0 +1,19 @@
+# Humbug
+
+## Niveau minimum pour une nutrition durable (NMND)
+
+Romain Giraud has introduced the niveau minimum pour une nutrition durable (NMND) in France. You can read about this on the [Clinique du Gazon website](http://cliniquedugazon.fr/index.php/2018/10/19/nmnd-niveau-minimum-pour-une-nutrition-durable-des-greens-de-golf/). He has adapted the R code that we used to calculate the MLSN guidelines and applied that to a set of soil test data from good-performing turf in France. Those data were generated from the typical testing methods used in France, rather than from Mehlich 3 soil tests. This approach is one that I advocate; by applying the principles of MLSN, one can generate a local guideline using local or regional soil test results and methods. I look forward to seeing how the NMND guidelines work for turfgrass managers in France.
+
+## The Humbug moview about MLSN 
+
+Have you watched the new Humbug video about MLSN? You can watch it on [YouTube here](https://youtu.be/5NrnNBi4SWY). I prepared the video with the help of Larry Stowell, Sue Crawford, Andrew McDaniel, and Bjarni Hannesson. I tried to describe what MLSN is, and to include the perspectives of people from around the world who have used MLSN.
+
+There is [this short trailer](https://youtu.be/p3K3wMM9oEM) for the Humbug movie too. It distills the key points of the video down to one minute. Or does it? Actually, I hope you'll watch the trailer and the full movie too!
+
+## Excited about this approach to turfgrass management
+
+This past week I received an email from a soil testing client that captures a lot of the same excitement I feel about MLSN:
+
+"Wow! I’m very happy with the progress being made especially the OM% numbers on the normal soil test results. I was waiting for these test results like a kid waiting for Santa Claus at Christmas. I can’t remember ever doing that. I think the revamping of the agronomic program focusing on MLSN, clipping volume measurements especially, watching growth potential, and minimizing some traditional cultural practices (resulting in surface disturbance) all seemed to really help in maintaining a better playing surface while significantly reducing material costs and labor. I’m excited to continue this program in 2019."
+
+I hope you are getting similar results and that you also experience some excitement around this approach to turfgrass management. For me, the benefits from MSLN are not a one time deal. It is a continuing process that I expect can see improvements and efficiencies that accrue year after year.

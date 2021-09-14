@@ -1,0 +1,55 @@
+# The beer analogy
+
+## Four things to understand about MLSN
+
+I want to highlight four things from a presentation I gave in Portugal in 2017, because those points make it easier (at least for me) to understand the why and how of MLSN.
+
+1. MLSN is a method for making fertilizer recommendations from soil tests.
+
+2. Conventional soil test results are classified into low, medium, and high categories. The low classification says there is "a high probability (80-100%) that applying the nutrient will elicit a growth response." I don't know any professional turfgrass manager who wants to manage turf with soils at that level. How about medium? Now there is "a 50% chance of getting a plant growth response" right now, and "if fertilizer is not applied, growth will probably be limited." Anyone want to manage turf at the medium level? I didn't think so. The high range is the soil level at which "little or no crop response is expected from applying the particular nutrient." By reading through the definitions for the conventional guidelines, it is apparent that turf should be managed with soil nutrient levels (at a minimum) at the bottom end of the high range. At those levels, the grass won't respond to additions of that nutrient.
+
+3. So with those definitions, there is probably a good reason for setting the numbers at which a turfgrass soil gets classified as in the low, medium, or high range, right? Not exactly. How about this explanation, straight from the pages of the *Turfgrass Soil Fertility* book:
+
+"In some cases, turfgrasses have been placed in a 'high' P and K requirement category, while pasture grasses were in a 'low' category. This decision was based on economics, not agronomics. The cost of fertilization was not considered of primary importance for turf."
+
+Wow! That sure makes the conventional guidelines seem arbitrary. They are set at arbitrarily high levels, and it is not even because the grass needs those quantities of nutrients in the soil.
+
+Interpreting soil tests using MLSN takes a completely different approach, and it avoids those problems of arbitrarily high guidelines. I would like to point out that the conventional guidelines are often impossible to reach in the soils that turf is grown in today. 
+
+4. I described the use of the MLSN guidelines with a story about not running out of beer. The calculations for MLSN are the same as we make in our head when planning something like a party, and one doesn't even need a calculator to get the answer. Here's the beer analogy, and how we discussed in Portugal.
+
+### Not running out of beer
+
+Let's imagine that I am planning a party. I've invited five friends over, and I told them, "Please bring some food and snacks, but don't worry about beer. I'll take care of the beer." I would like to be a good host, and I want to make sure I have enough beer for the party. I don't want to run out of beer. How many beers do I need to buy? I can solve this problem in my head. And the problem I solve in my head, about how many beers to buy, is the equivalent of using MLSN to calculate how much fertilizer to apply.
+
+First, I need to make an estimate of how many beers me and the five friends I've invited over might drink. Let's say knowing these friends, and myself, and whatever the occasion of the party is, that my estimate of beer consumption will be a maximum of 5 per person. That's 30 beers (5 friends plus me). I've made a generous estimate of how many beers we might drink, at a maximum.
+
+That's not actually how many beers I want to have in stock however. I don't want my friends to think that we might run out of beer. I want to make sure we have extra, so everyone can have beer at their leisure without thinking that the stock may all be consumed before they have had their fill. And I've invited 5 friends, but what if there are any unexpected guests too? Maybe someone will bring along another friend. I want to make sure I have some extra beer too. I'll get 10 more. I need a total of 40 beers. I don't think this extra amount will be touched; I don't want it to be consumed; I want to have that much extra as a buffer.
+
+Now I can go to the store and get 40 cans or bottles. But wait! That's only if I have 0 at home. What if I already have 15 at home? In that case, the amount I need to buy at the store is 25. What if I have 80 at home? In that case, I don't need to go to the store at all.
+
+That's the beer story. And that is a calculation we solve in our minds all the time, about eggs, beer, apples, or whatever. The MLSN calculation is the same.
+
+We make a site specific use estimate for the element. That is the same as making an estimate of how much beer might be consumed by a certain group of friends, but instead of friends and beer, we think of the grass type, the growing conditions, and the amount of time over which the nutrient will be used by the grass.
+
+Then we figure out an extra amount of the nutrient that we want to keep in reserve. This is an amount that we don't want the grass to use, but we want to make sure it is always there in reserve. This extra amount is the same as the extra 10 beers I decided to get for the party. It is not that I plan to touch those, but I want to make sure they are on hand, just in case. This extra amount of nutrients is the quantity represented by the MLSN guideline level.
+
+The total amount of beer I need is the generous estimate of use, and added to that is the extra amount that I want to make sure we have on hand just in case. The total amount of a nutrient that I need is the site-specific estimate of plant use, and added to that is the extra amount (the MLSN level) that I want to make sure remains in the soil, just in case.
+
+The beer I need to buy is the total amount I need, minus the amount I already have at home. The amount of fertilizer I need to apply is the total amount that I need, minus the amount I already have in the soil. The amount I already have in the soil? That's the soil test result.
+
+That's how the MLSN guidelines work.
+
+### Elaborating on MLSN 
+
+There was a long discussion on the Golf Course Superintendent Association Queensland's Facebook page about MLSN.
+
+After reading some of those comments, I jotted down these thoughts, thinking that I could elaborate on them in the next newsletter.
+
+It seems to me that many people fail to think of these things:
+
+- grass is alive and using nutrients so the soil test level today is not the same as yesterday
+- the MLSN guidelines are a method to interpret soil tests to make a fertilizer recommendation (see above)
+- the fertilizer recommendation from MLSN, as has been explained repeatedly, accounts for time
+- the fertilizer recommendation from MLSN includes 100% of what the grass will use, over a user-specified time duration, and additionally keeps a reserve in the soil that the grass won't touch.
+- if one gets the calculations wrong, that becomes apparent on the next soil test, and it gets corrected.

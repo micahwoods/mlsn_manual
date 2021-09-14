@@ -1,0 +1,32 @@
+--- 
+title: "The Secret MLSN Operations Manual"
+author: "Micah Woods"
+date: "`r Sys.Date()`"
+description: This book compiles the MLSN newsletters sent since 2017.
+documentclass: book
+papersize: b5
+fontsize: 12pt
+link-citations: yes
+bibliography: /home/micah/Documents/Rs/citations.bib
+site: bookdown::bookdown_site
+biblio-style: apalike
+cover-image: img/cover.png
+apple-touch-icon: touch-icon.png
+apple-touch-icon-size: 152
+favicon: favicon.ico
+url: https\://micahwoods.github.io/mlsn_manual/
+---
+
+# Preface {-}
+
+<img src="img/cover.png" class="cover" width="250" height="328"/>
+
+Four months ago I sent out the 15^th^ MLSN newsletter to more than 1,000 subscribers. By the way, you can [subscribe here](https://www.asianturfgrass.com/#newsletters). These newsletters have been written with a goal of explaining MLSN, and include some stories about how Larry Stowell and I got started with MLSN, examples of how it works, and explanations of why it works. 
+
+After 15 of those, I realized it's a lot of reading material, and that an easy way to make them available for reference would be as a book(let). I've edited the original newsletters by removing as much time-specific material---such as seminar announcements---as I could, while trying to keep and arrange the expositional essay parts. I hope you'll find this useful and thought-provoking. For more, be sure to check out the [MLSN information hub](https://www.asianturfgrass.com/mlsn/) on the ATC website.
+
+<p><em>Micah Woods<br>
+September 2021<br>
+Trang</em></p>
+
+

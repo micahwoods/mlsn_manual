@@ -1,0 +1,23 @@
+# Nutrient use as a flux
+
+I've been seeing turf managers from around the world get great results with all kinds of turf. I don't know how to quantify the overall use of MLSN around the world, other than to say it is widespread and continues to be used more and more. 
+
+I often hear from people who are using MLSN with great success. What I don't hear so often is stories where MLSN didn't work, or where problems happened because of MLSN. I'm especially interested in hearing those stories, so if you know of any, please tell me.
+
+## What people have been saying
+
+Dr. Grady Miller wrote about MLSN as part of "A Fresh Look at Soil Testing" in SportsTurf magazine.
+
+He wrote, "This method is based on the concept of managing nutrient levels by reducing fertilizer inputs to a minimal level while still maintaining desired turfgrass quality. It is a little more difficult to explain in a few words, but the general concept is to use the turfgrasses’ uptake for each nutrient in relation to its nitrogen uptake. The uptake values are obtained from expected leaf nutrient content. Nitrogen is used since it is the nutrient that primarily drives growth of the plant. Growth is a driving factor of uptake for all the nutrients. Minimum levels of each nutrient have been established through extensive sampling of turfgrasses. By using soil test values, considering the minimal levels needed, a bit of math is used to estimate how much of a nutrient needs to be added to account for depletion by the turfgrass while ensuring adequate amounts remain in the soil. In many cases, the amount needed is likely to be lower than would be recommended using the SLAN method."
+
+## What I've been saying
+
+I've been trying to explain nutrient use as a flux. The Oxford English Dictionary defines flux as "the rate of flow of any fluid across a given area; the amount which crosses an area in a given time; it is thus a vector referred to unit area. Also used with reference to other forms of matter and energy that can be regarded as flowing, such as radiant energy, particles, etc."
+
+A mineral nutrient element is the particle. The area is whatever we want it to be, I'll call it one square meter of putting green for simplicity, and the mineral nutrient "crosses an area" when it leaves that area—by mowing, or leaching, or volatilization. And time can be an hour or day or week or month or season. Thinking of nutrient use as a flux is useful, because a flux is an amount that corresponds to fertilizer rates. A flux is an amount, in an area, for a time. Which is the same as, for example, 10 g of nitrogen in 1 square meter in 1 year. Everyone in the turfgrass industry is familiar with fertilizer application rates. That's one flux, of adding nutrients to a given area. But nutrient use as a flux? That's a language that fewer are fluent in. MLSN explicitly considers nutrient use as a flux. MLSN then makes a recommendation for nutrient supply (a flux) that matches the nutrient use flux, while at the same time accounting for nutrients in the soil.
+
+I tried to explain that in an email earlier this year. I put the exchange in a *Regarding how soil tests work* blog post, where I wrote:
+
+"For fine turf management, I think of nutrient use as a flux. What is the quantity of nutrients used by the grass on a per area basis for a time duration? That is, how many grams of any element is the grass using per square meter per day, or per month? The amount for golf course turf is pretty small when you calculate it. For football or other sports turf it can be more, maybe 5 to 10 times larger flux most of the time. But this is all still a flux, and one can ignore the soil and ensure that the nutrient supply to the grass is the same (or slightly more) than the flux of nutrient use.
+
+Soil testing for all the elements then becomes useful as a means of reassurance and a means of saving money and effort; the use fluxes are generally quite small, so when one tests the soil, it is common to find that the soil contains more than enough to meet the grass requirements. Thus, soil testing often allows one to skip nutrient applications and save the money and effort involved with those applications, by providing knowledge that the soil contains enough to meet the use flux."

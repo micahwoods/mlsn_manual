@@ -1,0 +1,17 @@
+# Optimum nutrient levels
+
+Someone asked me during a presentation if I could explain about optimum nutrient levels in the soil.
+
+I answered by saying that thinking about optimum nutrient levels is not the way I would try to solve that problem. The most important thing, I emphasized, is to supply the grass with enough nutrients---with all the nutrients it can use. To accomplish that, especially in sandy rootzones that don't hold a lot of nutrients, the most important thing to do is to know the quantity of nutrients the grass can use, and to supply those.
+
+Imagine a brand new sand rootzone. Its nutrient-supplying power is indistinguishable from zero. Its nutrient-holding capacity is indistinguishable from zero, too. Yet we might like to produce high quality turfgrass in this rootzone. Because the soil can supply almost nothing, and can hold almost nothing, it’s not especially useful to think of optimum nutrient levels for such soils. What is useful is to consider what the grass can use, and then to ensure that is supplied.
+
+You already know what happens when one tries to adjust soil nutrient levels to “optimum” levels in such a rootzone. A lot of fertilizer gets wasted, to no effect. The soil can’t hold that many nutrients, and the grass can’t use them all immediately, so they go out with the drainage water.
+
+## A research project that looks at the same question
+
+There’s an interesting research project conducted at Michigan State University’s Hancock Turfgrass Research Center, looking at putting green quality in response to different fertilizer recommendations. One is the conventional way, using SLAN to interpret soil tests based on optimum levels in the soil. A second is MLSN, incorporating upcoming plant use, a reserve amount we want to keep untouched in the soil, and the actual amount found in the soil. And the third method is disregarding soil tests completely, adding N but nothing else, essentially assuming that the soil can supply all that the grass needs.
+
+Jackie Guevara spoke about this at the MSU field day. [See her video and read more about the project here](https://www.asianturfgrass.com/post/soil-test-showdown/): I called it a Soil Test Showdown. What they found in the first year is visual deficiency symptoms (for P) in the treatments that only get N. SLAN recommendations apply three times the amount of K as do the MLSN recommendations. But MLSN and SLAN treatments produce putting green turf of the same quality.
+
+SLAN recommendations are trying to make soil nutrient levels go to a level that they just can't reach in the type of sand rootzones that fine turfgrass is so often grown in today. For a look at what normal nutrient levels really are today, see our [summary of the Global Soil Survey](https://doi.org/10.17605/OSF.IO/RG49P). The MLSN approach is designed to prevent nutrient deficiencies while at the same time identifying sites that are likely to be non-responsive to additional applications of a nutrient. And MLSN works in sands, in soils, no matter the nutrient content, because it looks first at how much of each element the grass can possibly use. That’s the important part.

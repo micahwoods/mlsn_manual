@@ -1,0 +1,21 @@
+# Soil nutrients: a reality check
+
+When we introduced the MLSN guidelines in 2012, there was concern that these guidelines were too low. I was confident fertilizer recommendations made using MLSN would work, because we had spent a ton of time doing the data analyses and coming to understand the implications of this method. I think when one understands where the guidelines come from, and how there is a safety buffer already built-in to MLSN, then the concern about guidelines being too low goes away. But just compare MLSN directly to conventional guidelines, and you'll see a big difference.
+
+I'll admit, at the start MLSN numbers seemed really low to me too. There was certainly some anchoring associated with that comparison. Anchoring is a cognitive bias where the first piece of information (or number) introduced serves as the anchor (or reference) for future discussions. Because the conventional guidelines were familiar to everyone, and because they were also impossibly high, they were a heavy anchor for a while.
+
+Anyway, we wanted to check MLSN by looking at a broad range of soil results from good-performing turf, and that's what the Global Soil Survey, from 2013 to 2016, allowed us to do. This table shows how the [results for the GSS](https://doi.org/10.17605/OSF.IO/RG49P ) compare to MLSN values and to SLAN values (the conventional guideline).
+
+                                                                  
+  element     GSS~10~   MLSN~10~   SLAN                            
+  --------- ---------- ----------- ------                            
+  K                 31          37    117                           
+  P                 23          21     55                        
+  Ca               256         348    751                             
+  Mg                36          47    121                            
+  S                  7           7     41        
+
+
+Doing the same analysis on the GSS data set as we did on the MLSN data set, the minimum values for potassium (K), calcium (Ca), and magnesium (Mg) all come back lower than MLSN.
+
+So this is the reality check. When we invited turfgrass managers from around the world to submit soil samples from explicitly good-performing turf at their location, those soils had distributions of nutrient levels that were similar to, or slightly lower, than MLSN. The MLSN guidelines start to look reasonable, and it's the conventional guidelines that increasingly seem to be too high.

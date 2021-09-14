@@ -1,0 +1,21 @@
+# Best fertilizer guidelines ever
+
+One of the subscribers to the MLSN newsletter wrote to me after receiving a new issue, reminding me that these are the "best fertilizer guidelines ever!"
+
+There is increasing use of MLSN all over the world. Whether you are one of the early adopters who has seen great results for almost a decade now, or if you are just getting started with MLSN, this method is a logical way to ensure the grass is supplied with all the nutrients it can use, while at the same time accounting for any surplus nutrients in the soil, and allowing the grass to use them.
+
+I'd encourage everyone to check the [MLSN K calculator](https://asianturfgrass.shinyapps.io/mlsn_K/), adjust the settings for the grass and soil at their location, and then observe how the calculated fertilizer requirement changes. In particular, note how the diagonal dashed line across the chart shows how much K fertilizer would be recommended based on changes in the soil test K.
+
+## Dandelions, calcium, and nutrients in irrigation water
+
+MLSN is all about preventing deficiencies while avoiding overapplication. I wrote about one of the cases where application of an element that is not required can cause problems—in this case, [with dandelions](https://www.asianturfgrass.com/post/potassium-dandelions/).
+
+One of the reasons calcium (Ca) fertilizer is almost never required for turfgrass is because the irrigation water supplies more Ca than the grass can use. I worked through those calculations in two blog posts:
+
+* [Calcium leaches?](https://www.asianturfgrass.com/post/calcium-leaches/)
+
+* Before your next calcium app, [read this](https://www.asianturfgrass.com/post/before-next-calcium-app-read-this/)
+
+If I work through the amount of K supplied in irrigation, compared with the grass use of K, the result is completely different than with Ca. And this illustrates one of the reasons why K is often required as fertilizer, but Ca is not.
+
+Penn State's irrigation water quality guide says normal K in irrigation water is 5 to 20 ppm (mg/L). If I take 15 mg/L as the K content of my hypothetical irrigation water, and work through the calculations as in the Before your next calcium app blog post, the K supplied by irrigation water is 5.7 g/m^2^/year and the grass harvest is 7 g/m^2^/year. The irrigation water doesn't supply enough K to meet the grass requirements.

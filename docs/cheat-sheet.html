@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<title>5 Cheat sheet | The Secret MLSN Operations Manual</title>
+<meta name="author" content="Micah Woods">
+<meta name="description" content="5.1 The MLSN cheat sheets These cheat sheets are meant to explain MLSN in simple terms, and also to give the full detail of how to make the calculations. I get a lot of questions about MLSN, and I...">
+<meta name="generator" content="bookdown 0.24 with bs4_book()">
+<meta property="og:title" content="5 Cheat sheet | The Secret MLSN Operations Manual">
+<meta property="og:type" content="book">
+<meta property="og:url" content="https://micahwoods.github.io/mlsn_manual/cheat-sheet.html">
+<meta property="og:image" content="https://micahwoods.github.io/mlsn_manual//img/cover.png">
+<meta property="og:description" content="5.1 The MLSN cheat sheets These cheat sheets are meant to explain MLSN in simple terms, and also to give the full detail of how to make the calculations. I get a lot of questions about MLSN, and I...">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="5 Cheat sheet | The Secret MLSN Operations Manual">
+<meta name="twitter:description" content="5.1 The MLSN cheat sheets These cheat sheets are meant to explain MLSN in simple terms, and also to give the full detail of how to make the calculations. I get a lot of questions about MLSN, and I...">
+<meta name="twitter:image" content="https://micahwoods.github.io/mlsn_manual//img/cover.png">
+<!-- JS --><script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.6/clipboard.min.js" integrity="sha256-inc5kl9MA1hkeYUt+EC3BhlIgyp/2jDIyBLS6k3UxPI=" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/6.4.6/fuse.js" integrity="sha512-zv6Ywkjyktsohkbp9bb45V6tEMoWhzFzXis+LrMehmJZZSys19Yxf1dopHx7WzIKxr5tK2dVcYmaCk2uqdjF4A==" crossorigin="anonymous"></script><script src="https://kit.fontawesome.com/6ecbd6c532.js" crossorigin="anonymous"></script><script src="libs/header-attrs-2.10/header-attrs.js"></script><script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link href="libs/bootstrap-4.6.0/bootstrap.min.css" rel="stylesheet">
+<script src="libs/bootstrap-4.6.0/bootstrap.bundle.min.js"></script><script src="libs/bs3compat-0.2.5.1/tabs.js"></script><script src="libs/bs3compat-0.2.5.1/bs3compat.js"></script><link href="libs/bs4_book-1.0.0/bs4_book.css" rel="stylesheet">
+<script src="libs/bs4_book-1.0.0/bs4_book.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/autocomplete.js/0.38.0/autocomplete.jquery.min.js" integrity="sha512-GU9ayf+66Xx2TmpxqJpliWbT5PiGYxpaG8rfnBEk1LL8l1KGkRShhngwdXK1UgqhAzWpZHSiYPc09/NwDQIGyg==" crossorigin="anonymous"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js" integrity="sha512-5CYOlHXGh6QpOFA/TeTylKLWfB3ftPsde7AnmhuitiTX4K5SqCLBeKro6sPS8ilsz1Q4NRx3v8Ko2IBiszzdww==" crossorigin="anonymous"></script><!-- CSS -->
+</head>
+<body data-spy="scroll" data-target="#toc">
+
+<div class="container-fluid">
+<div class="row">
+  <header class="col-sm-12 col-lg-3 sidebar sidebar-book"><a class="sr-only sr-only-focusable" href="#content">Skip to main content</a>
+
+    <div class="d-flex align-items-start justify-content-between">
+      <h1>
+        <a href="index.html" title="">The Secret MLSN Operations Manual</a>
+      </h1>
+      <button class="btn btn-outline-primary d-lg-none ml-2 mt-1" type="button" data-toggle="collapse" data-target="#main-nav" aria-expanded="true" aria-controls="main-nav"><i class="fas fa-bars"></i><span class="sr-only">Show table of contents</span></button>
+    </div>
+
+    <div id="main-nav" class="collapse-lg">
+      <form role="search">
+        <input id="search" class="form-control" type="search" placeholder="Search" aria-label="Search">
+</form>
+
+      <nav aria-label="Table of contents"><h2>Table of contents</h2>
+        <ul class="book-toc list-unstyled">
+<li><a class="" href="index.html">Preface</a></li>
+<li><a class="" href="about-the-author.html">About the Author</a></li>
+<li><a class="" href="origin-story.html"><span class="header-section-number">1</span> Origin story</a></li>
+<li><a class="" href="a-refresher.html"><span class="header-section-number">2</span> A refresher</a></li>
+<li><a class="" href="example-charts.html"><span class="header-section-number">3</span> Example charts</a></li>
+<li><a class="" href="the-beer-analogy.html"><span class="header-section-number">4</span> The beer analogy</a></li>
+<li><a class="active" href="cheat-sheet.html"><span class="header-section-number">5</span> Cheat sheet</a></li>
+<li><a class="" href="trend-over-time.html"><span class="header-section-number">6</span> Trend over time</a></li>
+<li><a class="" href="humbug.html"><span class="header-section-number">7</span> Humbug</a></li>
+<li><a class="" href="nutrient-use-as-a-flux.html"><span class="header-section-number">8</span> Nutrient use as a flux</a></li>
+<li><a class="" href="in-statu-quo.html"><span class="header-section-number">9</span> In statu quo</a></li>
+<li><a class="" href="a-worldwide-phenomenon.html"><span class="header-section-number">10</span> A worldwide phenomenon</a></li>
+<li><a class="" href="best-fertilizer-guidelines-ever.html"><span class="header-section-number">11</span> Best fertilizer guidelines ever</a></li>
+<li><a class="" href="fertilizer-cost.html"><span class="header-section-number">12</span> Fertilizer cost</a></li>
+<li><a class="" href="soil-nutrients-a-reality-check.html"><span class="header-section-number">13</span> Soil nutrients: a reality check</a></li>
+<li><a class="" href="optimum-nutrient-levels.html"><span class="header-section-number">14</span> Optimum nutrient levels</a></li>
+<li><a class="" href="tutorials-case-studies-community-knowledge.html"><span class="header-section-number">15</span> Tutorials, case studies, &amp; community knowledge</a></li>
+</ul>
+
+        <div class="book-extra">
+          
+        </div>
+      </nav>
+</div>
+  </header><main class="col-sm-12 col-md-9 col-lg-7" id="content"><div id="cheat-sheet" class="section level1" number="5">
+<h1>
+<span class="header-section-number">5</span> Cheat sheet<a class="anchor" aria-label="anchor" href="#cheat-sheet"><i class="fas fa-link"></i></a>
+</h1>
+<div id="the-mlsn-cheat-sheets" class="section level2" number="5.1">
+<h2>
+<span class="header-section-number">5.1</span> The MLSN cheat sheets<a class="anchor" aria-label="anchor" href="#the-mlsn-cheat-sheets"><i class="fas fa-link"></i></a>
+</h2>
+<p>These cheat sheets are meant to explain MLSN in simple terms, and also to give the full detail of how to make the calculations. I get a lot of questions about MLSN, and I thought this cheat sheet might be useful in providing some of those details and answers.</p>
+<ul>
+<li><p><a href="http://files.asianturfgrass.com/mlsn_cheat_sheet.pdf">Cheat sheet PDF file</a></p></li>
+<li><p><a href="http://files.asianturfgrass.com/mlsn_cheat_sheet_us.pdf">U.S. units cheat sheet PDF file</a></p></li>
+</ul>
+<p>I made a normal one, with the units that I normally use. And I made one with United States customary units, which is identical except it uses lbs per 1000 ft<sup>2</sup> to represent fertilizer amount and nutrient use.</p>
+<div class="figure">
+<img src="img/mlsn_cheat_sheet1.png" style="width:100.0%" alt=""><p class="caption">image MLSN cheat sheet page 1</p>
+</div>
+<div class="figure">
+<img src="img/mlsn_cheat_sheet2.png" style="width:100.0%" alt=""><p class="caption">mlsn cheat sheet page 2</p>
+</div>
+</div>
+<div id="mlsn-quotes" class="section level2" number="5.2">
+<h2>
+<span class="header-section-number">5.2</span> MLSN quotes<a class="anchor" aria-label="anchor" href="#mlsn-quotes"><i class="fas fa-link"></i></a>
+</h2>
+<p>Jason Haines wrote about the evolution of precision fertiliser application. “As I get older and learn more about what I’m actually trying to do as a turfgrass manager I have found that most of our issues as turf managers come from generalizations,” he wrote, and then went on to explain how use of MLSN – and other techniques – has helped to reduce those generalizations, and thus also reduced problems.</p>
+<p>Justin Wheeler showed his fertilizer and chemical tracking on a rainy day. He explained how this has been used at Kadena in Okinawa: “Although we always fertilized based on soil tests, the MLSN allowed me to finitely calculate what the greens/tees/fairways really needed and what was a luxury or unnecessary nutrient. It stands out very clear to me where I can reallocate several thousand dollars from greens fertility next year. Even halfway through the year, these changes allowed us to actually fertilize properly the fairways, the tees, and even some of the roughs and surrounds!”</p>
+<p>There was a discussion about MLSN on Gary Griggs’ Facebook group. There were quite a few comments. Bjarni Hannesson summed it up with this: “I’ve been using it for the past 4 years now. No issues, good performing greens and saves a lot of money.”</p>
+<p>Joe Gulotti had two great posts about MLSN. In the first one, he tells a story, and it’s all wrapped around MLSN. “I really don’t know what’s more creative and current than MLSN,” he wrote, “Stumbling upon the MLSN guidelines was not a coincidence. It was totally meant to happen, and I can honestly say, by implementing this approach to managing soils, it probably helped our club survive at least another year, but more importantly, kept me in a job!”</p>
+<p>In Joe’s second post about MLSN, he went through the calculations of fertilizer used and cost of fertilizer, from 2016 (pre-MLSN) to 2017 (using MLSN). It’s a detailed one, and he advises “if you don’t feel like plowing through the breakdown, feel free to scroll past this nonsense to the good part….the cost savings!” Those savings, by the way, were $26,447.37.</p>
+<div class="inline-figure"><img src="img/wg_jan2018.png" style="width:100.0%"></div>
+</div>
+<div id="teaching-mlsn" class="section level2" number="5.3">
+<h2>
+<span class="header-section-number">5.3</span> Teaching MLSN<a class="anchor" aria-label="anchor" href="#teaching-mlsn"><i class="fas fa-link"></i></a>
+</h2>
+<p>This inquiry came to my inbox:</p>
+<blockquote>
+<p>“I’ve been asked to give a seminar on MLSN guidelines for the [ ]. I intend to keep the explanation fairly simple. Are there any frequently asked questions that you have encountered that I could use in my presentations to help me make sure I’m explaining it clear enough … On a side note…I have been teaching this method of soil fertility interpretations for two years to my [ ] turf students and I can’t quite understand the resistance I get from superintendents…. any thoughts on that?”</p>
+</blockquote>
+<p>The following was my response.</p>
+<hr>
+<p>Have fun with this. I agree with keeping the explanation simple.</p>
+<p>The most frequent question is about nutrients being “present but not available” or “locked-up” or “the soil test shows it is available but how do I know the plant can actually get it” or some such thing. This question comes up again and again.</p>
+<p>I have tried to answer that in a ton of ways. If I would answer it today, I would say something like one can either trust the soil test, or not. If one doesn’t want to trust the soil test, then I suggest making things easy, skip soil testing, and supply to the grass 100% of what it can use.</p>
+<p>The N supply to the grass sets an upper limit on how much the grass can grow. One can’t apply half a pound of N and get the same amount of growth one would get with 3 pounds of N. Very few people in the industry, superintendents or turf scientists, make the calculation of expected plant use. It is a straightforward calculation or estimate. One can measure how much the grass grows. That’s time consuming. Or one can look at N supply, which sets an upper limit on growth. If one wants to add in the estimated N supply from mineralization, do so. Otherwise, just look only at N supplied as fertilizer. For every 1 pound of N, the grass has a maximum K use of 0.5 lbs, maximum P use of 0.125 pounds, maximum Ca use of .125 pounds, maximum Mg use of 0.05 lbs, maximum Fe use of 0.0025 lbs, etc.</p>
+<p>One can skip soil testing entirely and assume the soil will supply 0 nutrients to the grass and then supply as fertilizer these amounts. Because people don’t make the calculation, I don’t think it is common knowledge that supply of 100% of what the grass can use – and these are generous estimates, i.e. this is more than the grass can use, it is like a maximum possible estimate – is very likely less than what people are currently applying. The GCSAA surveys of nutrient use show that on average more K and more P are applied than the grass can use.</p>
+<p>The result of that 100% of what the grass can use calculation would already lead to a reduction in fertilizer use.</p>
+<p>But my focus is not on reducing fertilizer use. It is on preventing nutrient deficiencies and ensuring the grass is supplied with all it can use. The MLSN approach does that by calculating how much the grass can use, checking to see if the soil has enough to supply that, and the fertilizer recommendation that comes from MLSN calculations is the difference between what the grass can use and what the soil can supply, keeping the MLSN amount as an untouched buffer amount in the soil.</p>
+<p>I suppose the students who haven’t worked in turf would understand the MLSN approach. As for resistance from superintendents, I don’t know. I’ve thought about it and have a few ideas.</p>
+<p>One, I think some people are inclined to want to do more and to make it more complicated. To others, it seems natural that doing just what is required and no more would be the optimum way.</p>
+<p>Another, I think basically no one works through the calculations. So it is not a disagreement based on numbers, but it is based on people’s feelings about this, and if they feel that they don’t like it, then no amount of numbers will make them think otherwise.</p>
+<p>Another, if I have been applying X amount of all these elements for a few years and getting good results, and then someone comes and says that wasn’t necessary, and I could get the same or better results without doing that, it is like questioning what I did. But I got good results, and I am happy to keep doing the same thing. Who is this <em>asianturfgrass</em> guy from who knows where to tell me that I don’t need what I need. I proved that I need these by getting good results year after year by applying them.</p>
+<p>Another, if I have fought in my budget meeting to get $20,000 for fancy fertilizer, and I’ve gotten good results, how can I go to the club and say “I just found a way to save $18,000” a year on fertilizer. That might come across as “I was wasting a lot of money year after year.”</p>
+<p>Another, on the supply side, there would be very few companies supporting the MLSN approach in reality, because if they do work through the calculations even to supply 100% of what the grass could possibly use it would reduce the amount of product required. MLSN accounts for what is actually in the soil, so it would reduce product even further.</p>
+<p>Good luck with this and thanks for teaching this.</p>
+
+</div>
+</div>
+  <div class="chapter-nav">
+<div class="prev"><a href="the-beer-analogy.html"><span class="header-section-number">4</span> The beer analogy</a></div>
+<div class="next"><a href="trend-over-time.html"><span class="header-section-number">6</span> Trend over time</a></div>
+</div></main><div class="col-md-3 col-lg-2 d-none d-md-block sidebar sidebar-chapter">
+    <nav id="toc" data-toggle="toc" aria-label="On this page"><h2>On this page</h2>
+      <ul class="nav navbar-nav">
+<li><a class="nav-link" href="#cheat-sheet"><span class="header-section-number">5</span> Cheat sheet</a></li>
+<li><a class="nav-link" href="#the-mlsn-cheat-sheets"><span class="header-section-number">5.1</span> The MLSN cheat sheets</a></li>
+<li><a class="nav-link" href="#mlsn-quotes"><span class="header-section-number">5.2</span> MLSN quotes</a></li>
+<li><a class="nav-link" href="#teaching-mlsn"><span class="header-section-number">5.3</span> Teaching MLSN</a></li>
+</ul>
+
+      <div class="book-extra">
+        <ul class="list-unstyled">
+          
+        </ul>
+</div>
+    </nav>
+</div>
+
+</div>
+</div> <!-- .container -->
+
+<footer class="bg-primary text-light mt-5"><div class="container"><div class="row">
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>"<strong>The Secret MLSN Operations Manual</strong>" was written by Micah Woods. It was last built on 2021-09-14.</p>
+  </div>
+
+  <div class="col-12 col-md-6 mt-3">
+    <p>This book was built by the <a class="text-light" href="https://bookdown.org">bookdown</a> R package.</p>
+  </div>
+
+</div></div>
+</footer>
+</body>
+</html>
