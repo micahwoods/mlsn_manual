@@ -1,4 +1,14 @@
-## newsletter dates
+## The "Secret" MLSN Operations Manual
+
+Congratulations! You've found the secret MLSN operations manual. Read it at <https://micahwoods.github.io/mlsn_manual/index.html>
+
+For more about MLSN, see the [information hub](https://www.asianturfgrass.com/mlsn/) for this topic on the ATC website.
+
+MLSN is a modern method for soil test interpretation for turfgrass. This book is a compilation of MLSN newsletters than have been sent since early 2017. I realized that some of the material in the newsletters was of an essay or expositional type and might be useful to read later. Seminar announcements and that sort of thing is disposable, and I tried to cut the time-sensitive material out of the newsletters while retaining some of the explanatory content.
+
+## Newsletter dates
+
+These have been the send dates of the MLSN newsletters. Subscribe to ATC newsletters [here](https://www.asianturfgrass.com/#newsletters).
 
 1.  2017-02-17
 2.  2017-06-27
@@ -20,10 +30,8 @@
 
 I started this in 2021-05 rather excited about easily taking HTML files and converting to markdown with pandoc.
 
-But, the pandoc formatting is not standard markdown, the whole thing is hard to edit. So I am going to try again now from 2021-09-13 to:
+But, the pandoc formatting of the html files I provided did not produce clean markdown. The whole thing was daunting to edit. So I tried again from 2021-09-13 with a copy and paste from the html to Emacs and that worked much better.
 
-* take plain text
-* delete the time sensitive and links and so on.
-* keep the essayish type stuff. And have ourselves an ebook.
+I took plain text, deleted the time sensitive and links and so on, and kept the essayish type stuff. And we have ourselves an ebook.
 
 And generated the first version on 2021-09-14.

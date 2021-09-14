@@ -7,7 +7,7 @@ documentclass: book
 papersize: b5
 fontsize: 12pt
 link-citations: yes
-bibliography: /home/micah/Documents/Rs/citations.bib
+bibliography: citations.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
 cover-image: img/cover.png

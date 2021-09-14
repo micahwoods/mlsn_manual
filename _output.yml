@@ -1,2 +1,7 @@
 bookdown::pdf_book:
   latex_engine: xelatex
+  
+bookdown::bs4_book:
+  repo:
+    base: https://github.com/micahwoods/mlsn_manual
+    branch: master
