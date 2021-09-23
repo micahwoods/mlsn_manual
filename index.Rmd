@@ -6,8 +6,6 @@ description: This book compiles the MLSN newsletters sent since 2017.
 documentclass: book
 papersize: b5
 fontsize: 12pt
-link-citations: yes
-bibliography: citations.bib
 site: bookdown::bookdown_site
 biblio-style: apalike
 cover-image: img/cover.png
